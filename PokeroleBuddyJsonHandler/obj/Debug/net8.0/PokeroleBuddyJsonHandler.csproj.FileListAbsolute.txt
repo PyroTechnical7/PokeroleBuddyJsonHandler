@@ -1,0 +1,14 @@
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\bin\Debug\net8.0\PokeroleBuddyJsonHandler.exe
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\bin\Debug\net8.0\PokeroleBuddyJsonHandler.deps.json
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\bin\Debug\net8.0\PokeroleBuddyJsonHandler.runtimeconfig.json
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\bin\Debug\net8.0\PokeroleBuddyJsonHandler.dll
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\bin\Debug\net8.0\PokeroleBuddyJsonHandler.pdb
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.AssemblyInfoInputs.cache
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.AssemblyInfo.cs
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.csproj.CoreCompileInputs.cache
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.dll
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\refint\PokeroleBuddyJsonHandler.dll
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.pdb
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.genruntimeconfig.cache
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\ref\PokeroleBuddyJsonHandler.dll
