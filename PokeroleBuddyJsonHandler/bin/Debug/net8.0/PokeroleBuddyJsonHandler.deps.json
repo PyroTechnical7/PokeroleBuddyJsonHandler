@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "PokeroleBuddyJsonHandler/1.0.0": {
+        "dependencies": {
+          "PRJsonClasses": "1.0.0"
+        },
         "runtime": {
           "PokeroleBuddyJsonHandler.dll": {}
+        }
+      },
+      "PRJsonClasses/1.0.0": {
+        "runtime": {
+          "PRJsonClasses.dll": {}
         }
       }
     }
   },
   "libraries": {
     "PokeroleBuddyJsonHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PRJsonClasses/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

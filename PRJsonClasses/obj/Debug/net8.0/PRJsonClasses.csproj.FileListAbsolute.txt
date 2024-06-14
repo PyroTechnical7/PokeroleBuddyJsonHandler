@@ -1,0 +1,11 @@
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\bin\Debug\net8.0\PRJsonClasses.deps.json
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\bin\Debug\net8.0\PRJsonClasses.dll
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\bin\Debug\net8.0\PRJsonClasses.pdb
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\obj\Debug\net8.0\PRJsonClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\obj\Debug\net8.0\PRJsonClasses.AssemblyInfoInputs.cache
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\obj\Debug\net8.0\PRJsonClasses.AssemblyInfo.cs
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\obj\Debug\net8.0\PRJsonClasses.csproj.CoreCompileInputs.cache
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\obj\Debug\net8.0\PRJsonClasses.dll
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\obj\Debug\net8.0\refint\PRJsonClasses.dll
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\obj\Debug\net8.0\PRJsonClasses.pdb
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PRJsonClasses\obj\Debug\net8.0\ref\PRJsonClasses.dll

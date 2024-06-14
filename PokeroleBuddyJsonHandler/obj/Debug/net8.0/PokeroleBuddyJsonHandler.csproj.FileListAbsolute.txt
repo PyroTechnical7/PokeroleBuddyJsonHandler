@@ -12,3 +12,7 @@ C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj
 C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.pdb
 C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.genruntimeconfig.cache
 C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\ref\PokeroleBuddyJsonHandler.dll
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\bin\Debug\net8.0\PRJsonClasses.dll
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\bin\Debug\net8.0\PRJsonClasses.pdb
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.csproj.AssemblyReference.cache
+C:\Users\Cian\source\repos\PokeroleBuddyJsonHandler\PokeroleBuddyJsonHandler\obj\Debug\net8.0\PokeroleBuddyJsonHandler.csproj.CopyComplete

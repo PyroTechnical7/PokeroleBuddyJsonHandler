@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokeroleBuddyJsonHandler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4944ef341911ceb4db09674489a3a45f1d4bde9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokeroleBuddyJsonHandler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokeroleBuddyJsonHandler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
